@@ -10,7 +10,9 @@ Se  implementara  las conexiones adecuadas  usando la placa  arduino nano  uno  
  * Resistencias
  * Potenciometro
  * Cable
+ 
  En la conexion arduino/java  la interfaz  podra  mostrar:
+ 
  * mensaje de  "Bienvenida"
  * Hora y fecha:  Esto se  desplegara en la pantalla  mostrando la hr y fecha de ese momento.
  * Temperatura:  Con el sensor  la pantalla  nos mostrara la temperatura de ese momento en pantalla.
@@ -24,7 +26,8 @@ Se  implementara  las conexiones adecuadas  usando la placa  arduino nano  uno  
 * Codigo en java
 * Codigo en arduino
 
-
+# Nota:
+En caso de querer ejecutar el codigo,  descargar la  librerias  y cambiar los puertos  segun su dispositivo.
 
 # Contacto
  Diana Andrea Ramos Ledesma
